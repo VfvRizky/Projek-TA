@@ -1,5 +1,14 @@
 # Projek-TA
 Tugas Akhirrrrrr
+<br/>
+## 🛑Projek planning: 14 Maret 2022
+<br/>
+
+## 🔰Projek start: Maret 2022
+<br/>
+
+## ✅Projek estimasi finish: June 2022
+<br/>
 
 # Database sementara
 ![desain-database](https://user-images.githubusercontent.com/73746365/158311326-bf524620-cea0-4771-9614-3960a05a0b11.JPG)
