@@ -10,6 +10,15 @@ Tugas Akhirrrrrr
 ## ✅Projek Estimasi finish: June 2022
 <br/>
 
+## 💻Need to use:
+![image](https://user-images.githubusercontent.com/73746365/173214119-b2b243e6-3c53-4372-a244-507ddcc58f8f.png)
+![image](https://user-images.githubusercontent.com/73746365/173214276-690300ff-3541-4ba9-9de7-5dd75230ccf7.png)
+<br/>
+<br/>
+<br/>
+
+
+
 # Database sementara
 ![desain-database](https://user-images.githubusercontent.com/73746365/158311326-bf524620-cea0-4771-9614-3960a05a0b11.JPG)
 
